@@ -9,4 +9,5 @@ I'm **Gustavo Oliveira Dias**, MSc candidate in Computer Science at University o
 - 🌱 I’m currently learning ReactJS and improving my skills in JavaScript ES6, CSS and HTML5.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogod&show_icons=true&theme=tokyonight)
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&theme=tokyonight)
