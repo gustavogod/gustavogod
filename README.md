@@ -10,4 +10,5 @@ I'm **Gustavo Oliveira Dias**, MSc candidate in Computer Science at University o
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogod&show_icons=true&theme=tokyonight)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&layout=compact&langs_count=8)](https://github.com/gustavogod/github-readme-stats)
+
