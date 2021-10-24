@@ -8,7 +8,7 @@ I'm **Gustavo Oliveira Dias**, MSc candidate in Computer Science at University o
 - 💻 I’m currently working on getting my first professional experience as a front-end web developer.
 - 🌱 I’m currently learning ReactJS and improving my skills in JavaScript ES6, CSS and HTML5.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogod&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogod&show_icons=true&theme=merko)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&layout=compact&langs_count=8)](https://github.com/gustavogod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&layout=compact&langs_count=8&theme=merko)](https://github.com/gustavogod/github-readme-stats)
 
