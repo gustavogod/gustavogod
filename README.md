@@ -30,4 +30,4 @@ I'm **Gustavo Oliveira Dias**, MSc candidate in Computer Science at University o
 ### GitHub stats and languages
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavogod&show_icons=true&theme=merko)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&layout=compact&langs_count=8&theme=merko)](https://github.com/gustavogod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavogod&layout=compact&langs_count=6&hide=tex&theme=merko)](https://github.com/gustavogod/github-readme-stats)
