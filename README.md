@@ -6,7 +6,7 @@ I'm **Gustavo Oliveira Dias**, MSc candidate in Computer Science at University o
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dias-22117012b/)](https://www.linkedin.com/in/gustavo-dias-22117012b/)
 [![Gmail Badge](https://img.shields.io/badge/-gustavodias.god@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavodias.god@gmail.com)](mailto:gustavodias.god@gmail.com)
 
-- 💻 I'm currently working at [Looplex](https://looplex.com.br) as Development Analysis Jr.
+- 💻 I'm currently working at [Looplex](https://looplex.com.br) as Development Analyst Jr.
 - 🌱 I’m currently learning ReactJS and improving my skills in JavaScript ES6, CSS and HTML5.
 
 ### Techs
